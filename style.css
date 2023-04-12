@@ -1,0 +1,39 @@
+/* ? No-related enviroment ---------- */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    background-color: black;
+}
+
+.mid{
+    max-width: 75%;
+    margin: 0 auto;
+}
+
+/* *Font evm ---------- */ 
+@font-face {
+    font-family: 'FS Story Brush';
+    src: url("./font/FS\ Story\ Brush\ Regular.otf") format("opentype");
+}
+
+/* ? main_1 css ---------- */
+.main_1{
+    margin-top: 90px;
+
+    color: red;
+    font-size: 30px;
+
+    font-family: "FS Story Brush", Verdana, Tahoma;
+
+    text-align: left;
+    letter-spacing: 2.5px;
+
+}
+
+
